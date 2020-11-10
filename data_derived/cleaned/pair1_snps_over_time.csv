@@ -1,0 +1,5 @@
+	SNP	POS	DPI 2 index	DPI 3 contact
+3	ORF1ab_1982:G>T_Ala591Ser_missense	1982.0		0.04475
+0	ORF1ab_6642:C>CT_Leu2146fs_frameshift	6642.0	0.06765	0.04475
+1	S_23471:C>T_His655Tyr_missense	23471.0	0.85485	1.0
+2	E_26391:T>C_Ser67Ser_synonymous	26391.0	0.28365	1.0

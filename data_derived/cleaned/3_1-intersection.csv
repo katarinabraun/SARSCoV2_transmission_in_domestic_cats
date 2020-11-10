@@ -1,0 +1,5 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	ORF1ab_6642:C>CT_Leu2146fs_frameshift	6642.0	0.0499	0.0705	0.0602
+1	ORF1ab_19097:C>T_Ala6296Val_missense	19097.0	0.0894	0.0976	0.0935
+2	S_23471:C>T_His655Tyr_missense	23471.0	0.3833	0.3364	0.35985
+3	E_26391:T>C_Ser67Ser_synonymous	26391.0	0.2881	0.2929	0.2905

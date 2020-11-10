@@ -1,0 +1,6 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	ORF1ab_6642:C>CT_Leu2146fs_frameshift	0.0682	0.045399999999999996	4112.0	186.5
+1	S_23471:C>T_His655Tyr_missense	0.07944999999999999	0.9565	3424.0	3275.5
+2	S_25174:T>A_Ala1222Ala_synonymous	0.8754	0.0	3100.0	0.0
+3	E_26391:T>C_Ser67Ser_synonymous	0.0865	0.9703999999999999	4202.0	4077.5
+4	N_29457:G>A_Ser413Asn_missense	0.0	0.06155	2639.5	162.5

@@ -1,0 +1,17 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+36	1769	G	GC	frameshift	ORF1ab	dupC	Tr21fs	0.031	ORF1ab_1769:G>GC_Tr21fs_frameshift
+70	4163	AG	A	frameshift	ORF1ab	delG	Arg1318fs	0.0585	ORF1ab_4163:AG>A_Arg1318fs_frameshift
+87	5409	G	A	missense	ORF1ab	G>A	Ser1733Asn	0.058	ORF1ab_5409:G>A_Ser1733Asn_missense
+102	6300	C	T	missense	ORF1ab	C>T	Ser2030Leu	0.031	ORF1ab_6300:C>T_Ser2030Leu_missense
+110	6781	T	C	synonymous	ORF1ab	T>C	Ile2190Ile	0.0803	ORF1ab_6781:T>C_Ile2190Ile_synonymous
+152	10213	T	C	synonymous	ORF1ab	T>C	Gly3334Gly	0.1526	ORF1ab_10213:T>C_Gly3334Gly_synonymous
+202	12610	C	CA	frameshift	ORF1ab	dupA	Asn4134fs	0.0422	ORF1ab_12610:C>CA_Asn4134fs_frameshift
+281	16819	G	A	missense	ORF1ab	G>A	Gly5537Ser	0.0443	ORF1ab_16819:G>A_Gly5537Ser_missense
+338	19929	C	CT	frameshift&stop	ORF1ab	dupT	As576fs	0.0391	ORF1ab_19929:C>CT_As576fs_frameshift&stop
+348	21285	T	G	missense	ORF1ab	T>G	Asn7025Lys	0.0476	ORF1ab_21285:T>G_Asn7025Lys_missense
+386	23471	C	T	missense	S	C>T	His655Tyr	0.5325	S_23471:C>T_His655Tyr_missense
+399	24304	CA	C	frameshift	S	delA	Ile934fs	0.0509	S_24304:CA>C_Ile934fs_frameshift
+421	25495	CTTGCTG	C	conservative-inframe-deletion	ORF3a	-delGCTGTT	Ala54-Val55del	0.0547	ORF3a_25495:CTTGCTG>C_Ala54-Val55del_conservative-inframe-deletion
+455	26391	T	C	synonymous	E	T>C	Ser67Ser	0.3518	E_26391:T>C_Ser67Ser_synonymous
+459	26764	C	T	missense	M	C>T	Ser99Phe	0.03	M_26764:C>T_Ser99Phe_missense
+543	29037	C	CT	frameshift	N	dupT	Gly275fs	0.0395	N_29037:C>CT_Gly275fs_frameshift

@@ -1,0 +1,12 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+0	1	A	G	intergenic-region	CHR_START-ORF1ab	n.A>G		0.2353	CHR_START-ORF1ab_1:A>G__intergenic-region
+9	316	G	T	synonymous	ORF1ab	G>T	Val35Val	0.0358	ORF1ab_316:G>T_Val35Val_synonymous
+69	2181	G	A	missense	ORF1ab	G>A	Cys657Tyr	0.0336	ORF1ab_2181:G>A_Cys657Tyr_missense
+164	6642	C	CT	frameshift	ORF1ab	dupT	Leu2146fs	0.0376	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+233	9919	G	A	synonymous	ORF1ab	G>A	Lys3236Lys	0.1913	ORF1ab_9919:G>A_Lys3236Lys_synonymous
+268	11029	G	T	missense	ORF1ab	G>T	Leu3606Phe	0.0883	ORF1ab_11029:G>T_Leu3606Phe_missense
+463	15911	G	GT	frameshift	ORF1ab	dupT	Val5236fs	0.0411	ORF1ab_15911:G>GT_Val5236fs_frameshift
+683	23471	C	T	missense	S	C>T	His655Tyr	0.1912	S_23471:C>T_His655Tyr_missense
+780	26391	T	C	synonymous	E	T>C	Ser67Ser	0.1786	E_26391:T>C_Ser67Ser_synonymous
+864	28843	TAGA	T	disruptive-inframe-deletion	N	-delGAA	Arg209del	0.1238	N_28843:TAGA>T_Arg209del_disruptive-inframe-deletion
+883	29692	AGTACGATCGAGT	A	intergenic-region	ORF10-CHR_END	n.-delGTACGATCGAGT		0.0493	ORF10-CHR_END_29692:AGTACGATCGAGT>A__intergenic-region

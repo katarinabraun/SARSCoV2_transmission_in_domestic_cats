@@ -1,0 +1,222 @@
+file	product	site	ref_nt	maj_nt	position_in_codon	overlapping_ORFs	codon_start_site	codon	pi	gdiv	class_vs_ref	class	coverage	A	C	G	T
+temp_vcf4_1_8A.vcf	gene-E	26195	A	T	2	0	26194	TAC	0	0	Nonsynonymous	NONREF_NONPOLY	16	0	0	0	16
+temp_vcf4_1_8A.vcf	gene-E	26210	A	T	2	0	26209	GAA	0	0	Nonsynonymous	NONREF_NONPOLY	13	0	0	0	13
+temp_vcf4_1_8A.vcf	gene-E	26217	A	G	3	0	26215	ACA	0	0	Synonymous	NONREF_NONPOLY	11	0	0	11	0
+temp_vcf4_1_8A.vcf	gene-E	26220	T	C	3	0	26218	GGT	0	0	Synonymous	NONREF_NONPOLY	19	0	19	0	0
+temp_vcf4_1_8A.vcf	gene-E	26391	T	C	3	0	26389	TCT	0.000377287304282211	0.000377216131427272	Synonymous	Synonymous	5301	0	5300	0	1.00000000000001
+temp_vcf4_1_8A.vcf	gene-M	26601	T	C	1	0	26601	TTT	0	0	Nonsynonymous	NONREF_NONPOLY	31	0	31	0	0
+temp_vcf4_1_8A.vcf	gene-M	26764	C	T	2	0	26763	TCT	0	0	Nonsynonymous	NONREF_NONPOLY	162	0	0	0	162
+temp_vcf4_1_8A.vcf	gene-M	26876	T	C	3	0	26874	AGT	0	0	Synonymous	NONREF_NONPOLY	27	0	27	0	0
+temp_vcf4_1_8A.vcf	gene-M	26884	T	C	2	0	26883	GTA	0	0	Nonsynonymous	NONREF_NONPOLY	14	0	14	0	0
+temp_vcf4_1_8A.vcf	gene-M	26893	C	T	2	0	26892	GCT	0	0	Nonsynonymous	NONREF_NONPOLY	93	0	0	0	93
+temp_vcf4_1_8A.vcf	gene-M	26903	T	C	3	0	26901	CTT	0	0	Synonymous	NONREF_NONPOLY	82	0	82	0	0
+temp_vcf4_1_8A.vcf	gene-M	26906	T	C	3	0	26904	CGT	0	0	Synonymous	NONREF_NONPOLY	16	0	16	0	0
+temp_vcf4_1_8A.vcf	gene-N	28334	C	T	1	0	28334	CAA	0	0	Nonsynonymous	NONREF_NONPOLY	94	0	0	0	94
+temp_vcf4_1_8A.vcf	gene-N	28465	C	A	3	0	28463	GAC	0	0	Nonsynonymous	NONREF_NONPOLY	79	79	0	0	0
+temp_vcf4_1_8A.vcf	gene-N	28579	A	G	3	0	28577	GGA	0	0	Synonymous	NONREF_NONPOLY	83	0	0	83	0
+temp_vcf4_1_8A.vcf	gene-N	28661	A	G	1	0	28661	ACC	0	0	Nonsynonymous	NONREF_NONPOLY	16	0	0	16	0
+temp_vcf4_1_8A.vcf	gene-N	29041	T	C	3	0	29039	TTT	0	0	Synonymous	NONREF_NONPOLY	12	0	12	0	0
+temp_vcf4_1_8A.vcf	gene-ORF10	29548	T	C	3	0	29546	AGT	0	0	Synonymous	NONREF_NONPOLY	60	0	60	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	249	C	G	3	1	248	CAC	0	-3	Nonsynonymous	NONREF_NONPOLY	21	0	0	42	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	249		G	1	1	249		0	-3	Synonymous	NONREF_NONPOLY	21	0	0	42	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	290	C	T	1	1	290	CTC	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	290	T	T	2	1	290	CTC	0	-3	Synonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	715		C	2	1	714		0	-3	Synonymous	NONREF_NONPOLY	16	0	32	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	715		C	3	1	714		0	-3	Synonymous	NONREF_NONPOLY	16	0	32	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	851	A	G	1	1	851	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	17	0	0	34	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	851	C	G	2	1	851	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	17	0	0	34	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	852	T	T	3	1	851	ACT	0	-3	Synonymous	NONREF_NONPOLY	112	0	0	0	224
+temp_vcf4_1_8A.vcf	gene-ORF1ab	852		T	1	1	852		0	-3	Synonymous	NONREF_NONPOLY	112	0	0	0	224
+temp_vcf4_1_8A.vcf	gene-ORF1ab	881	A	G	1	1	881	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	11	0	0	22	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	881	C	G	2	1	881	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	11	0	0	22	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	1401	T	C	3	1	1400	CTT	0	-3	Synonymous	NONREF_NONPOLY	37	0	74	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	1401		C	1	1	1401		0	-3	Synonymous	NONREF_NONPOLY	37	0	74	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2007	C	T	3	1	2006	GCC	0	-3	Synonymous	NONREF_NONPOLY	95	0	0	0	190
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2007		T	1	1	2007		0	-3	Synonymous	NONREF_NONPOLY	95	0	0	0	190
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2090	G	T	1	1	2090	GTC	0	-3	Nonsynonymous	NONREF_NONPOLY	91	0	0	0	182
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2090	T	T	2	1	2090	GTC	0	-3	Synonymous	NONREF_NONPOLY	91	0	0	0	182
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2181	T	A	3	1	2180	TGT	0	-3	Nonsynonymous	NONREF_NONPOLY	100	200	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2181		A	1	1	2181		0	-3	Synonymous	NONREF_NONPOLY	100	200	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2449		G	2	1	2448		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2449		G	3	1	2448		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2660	G	T	1	1	2660	GGC	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2660	G	T	2	1	2660	GGC	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2735	A	G	1	1	2735	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	12	0	0	24	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	2735	C	G	2	1	2735	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	12	0	0	24	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3038	C	T	1	1	3038	CCA	0	-3	Nonsynonymous	NONREF_NONPOLY	138	0	0	0	276
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3038	C	T	2	1	3038	CCA	0	-3	Nonsynonymous	NONREF_NONPOLY	138	0	0	0	276
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3374	A	G	1	1	3374	ACA	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3374	C	G	2	1	3374	ACA	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3433		T	2	1	3432		0	-3	Synonymous	NONREF_NONPOLY	139	0	0	0	278
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3433		T	3	1	3432		0	-3	Synonymous	NONREF_NONPOLY	139	0	0	0	278
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3507	G	C	3	1	3506	GTG	0	-3	Synonymous	NONREF_NONPOLY	17	0	34	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3507		C	1	1	3507		0	-3	Synonymous	NONREF_NONPOLY	17	0	34	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3514		C	2	1	3513		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	3514		C	3	1	3513		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4279		G	2	1	4278		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4279		G	3	1	4278		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4304	C	T	1	1	4304	CAA	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4304	A	T	2	1	4304	CAA	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4675		C	2	1	4674		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4675		C	3	1	4674		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4845	C	G	3	1	4844	CAC	0.484848484848485	-7	Ambiguous	Synonymous	16.5	0	0	33	33
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4845		G	1	1	4845		0.484848484848485	-7	Synonymous	Nonsynonymous	16.5	0	0	33	33
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4865	A	G	1	1	4865	ACC	0.496894409937888	-7	Nonsynonymous	Nonsynonymous	23	0	0	46	46
+temp_vcf4_1_8A.vcf	gene-ORF1ab	4865	C	G	2	1	4865	ACC	0.496894409937888	-7	Nonsynonymous	Nonsynonymous	23	0	0	46	46
+temp_vcf4_1_8A.vcf	gene-ORF1ab	5339	T	C	1	1	5339	TTT	0	-3	Nonsynonymous	NONREF_NONPOLY	99	0	198	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	5339	T	C	2	1	5339	TTT	0	-3	Nonsynonymous	NONREF_NONPOLY	99	0	198	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	5842		G	2	1	5841		0	-3	Synonymous	NONREF_NONPOLY	74	0	0	148	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	5842		G	3	1	5841		0	-3	Synonymous	NONREF_NONPOLY	74	0	0	148	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	5845		G	2	1	5844		0	-3	Synonymous	NONREF_NONPOLY	14	0	0	28	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	5845		G	3	1	5844		0	-3	Synonymous	NONREF_NONPOLY	14	0	0	28	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6146	T	C	1	1	6146	TTT	0	-3	Nonsynonymous	NONREF_NONPOLY	81	0	162	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6146	T	C	2	1	6146	TTT	0	-3	Nonsynonymous	NONREF_NONPOLY	81	0	162	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6236	T	C	1	1	6236	TGT	0	-3	Nonsynonymous	NONREF_NONPOLY	12	0	24	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6236	G	C	2	1	6236	TGT	0	-3	Nonsynonymous	NONREF_NONPOLY	12	0	24	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6731	A	G	1	1	6731	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6731	C	G	2	1	6731	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6754		C	2	1	6753		0	-3	Synonymous	NONREF_NONPOLY	62	0	124	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	6754		C	3	1	6753		0	-3	Synonymous	NONREF_NONPOLY	62	0	124	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	8624	G	A	1	1	8624	GAA	0	-3	Nonsynonymous	NONREF_NONPOLY	46	92	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	8624	A	A	2	1	8624	GAA	0	-3	Synonymous	NONREF_NONPOLY	46	92	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	8799	T	T	3	1	8798	GGT	0	-3	Synonymous	NONREF_NONPOLY	49	0	0	0	98
+temp_vcf4_1_8A.vcf	gene-ORF1ab	8799		T	1	1	8799		0	-3	Synonymous	NONREF_NONPOLY	49	0	0	0	98
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9110	A	G	1	1	9110	ACC	0	-3	Nonsynonymous	NONREF_NONPOLY	11	0	0	22	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9110	C	G	2	1	9110	ACC	0	-3	Nonsynonymous	NONREF_NONPOLY	11	0	0	22	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9114	C	G	3	1	9113	TAC	0	-3	Nonsynonymous	NONREF_NONPOLY	23	0	0	46	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9114		G	1	1	9114		0	-3	Synonymous	NONREF_NONPOLY	23	0	0	46	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9259		T	2	1	9258		0	-3	Synonymous	NONREF_NONPOLY	13	0	0	0	26
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9259		T	3	1	9258		0	-3	Synonymous	NONREF_NONPOLY	13	0	0	0	26
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9261	T	C	3	1	9260	GTT	0	-3	Synonymous	NONREF_NONPOLY	11	0	22	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9261		C	1	1	9261		0	-3	Synonymous	NONREF_NONPOLY	11	0	22	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9271		C	2	1	9270		0	-3	Synonymous	NONREF_NONPOLY	11	0	22	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9271		C	3	1	9270		0	-3	Synonymous	NONREF_NONPOLY	11	0	22	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9455	A	G	1	1	9455	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	14	0	0	28	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9455	C	G	2	1	9455	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	14	0	0	28	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9465	C	A	3	1	9464	TTC	0	-3	Nonsynonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9465		A	1	1	9465		0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9490		A	2	1	9489		0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9490		A	3	1	9489		0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9919		A	2	1	9918		0	-3	Synonymous	NONREF_NONPOLY	62	124	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	9919		A	3	1	9918		0	-3	Synonymous	NONREF_NONPOLY	62	124	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10074	T	T	3	1	10073	ACT	0	-3	Synonymous	NONREF_NONPOLY	47	0	0	0	94
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10074		T	1	1	10074		0	-3	Synonymous	NONREF_NONPOLY	47	0	0	0	94
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10263	G	T	3	1	10262	AAG	0	-3	Nonsynonymous	NONREF_NONPOLY	132	0	0	0	264
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10263		T	1	1	10263		0	-3	Synonymous	NONREF_NONPOLY	132	0	0	0	264
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10294		G	2	1	10293		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10294		G	3	1	10293		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10446	T	T	3	1	10445	GGT	0	-3	Synonymous	NONREF_NONPOLY	94	0	0	0	188
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10446		T	1	1	10446		0	-3	Synonymous	NONREF_NONPOLY	94	0	0	0	188
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10876		G	2	1	10875		0	-3	Synonymous	NONREF_NONPOLY	19	0	0	38	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	10876		G	3	1	10875		0	-3	Synonymous	NONREF_NONPOLY	19	0	0	38	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11234	T	G	1	1	11234	TCT	0	-3	Nonsynonymous	NONREF_NONPOLY	84	0	0	168	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11234	C	G	2	1	11234	TCT	0	-3	Nonsynonymous	NONREF_NONPOLY	84	0	0	168	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11536		T	2	1	11535		0	-3	Synonymous	NONREF_NONPOLY	12	0	0	0	24
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11536		T	3	1	11535		0	-3	Synonymous	NONREF_NONPOLY	12	0	0	0	24
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11556	T	C	3	1	11555	GTT	0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11556		C	1	1	11556		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11582	A	T	1	1	11582	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	11582	C	T	2	1	11582	ACT	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12124		C	2	1	12123		0	-3	Synonymous	NONREF_NONPOLY	13	0	26	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12124		C	3	1	12123		0	-3	Synonymous	NONREF_NONPOLY	13	0	26	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12132	A	C	3	1	12131	GAA	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12132		C	1	1	12132		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12133		C	2	1	12132		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12133		C	3	1	12132		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12158	T	C	1	1	12158	TCT	0	-3	Nonsynonymous	NONREF_NONPOLY	11	0	22	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12158	C	C	2	1	12158	TCT	0	-3	Synonymous	NONREF_NONPOLY	11	0	22	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12655		G	2	1	12654		0	-3	Synonymous	NONREF_NONPOLY	14	0	0	28	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12655		G	3	1	12654		0	-3	Synonymous	NONREF_NONPOLY	14	0	0	28	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12682		C	2	1	12681		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12682		C	3	1	12681		0	-3	Synonymous	NONREF_NONPOLY	10	0	20	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12918	C	G	3	1	12917	AAC	0	-3	Nonsynonymous	NONREF_NONPOLY	12	0	0	24	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12918		G	1	1	12918		0	-3	Synonymous	NONREF_NONPOLY	12	0	0	24	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12937		G	2	1	12936		0	-3	Synonymous	NONREF_NONPOLY	13	0	0	26	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	12937		G	3	1	12936		0	-3	Synonymous	NONREF_NONPOLY	13	0	0	26	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	13305	T	C	3	1	13304	CTT	0	-3	Synonymous	NONREF_NONPOLY	74	0	148	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	13305		C	1	1	13305		0	-3	Synonymous	NONREF_NONPOLY	74	0	148	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	13487	C	T	2	0	13486	GCT	0	0	Nonsynonymous	NONREF_NONPOLY	85	0	0	0	85
+temp_vcf4_1_8A.vcf	gene-ORF1ab	13693	A	G	1	0	13693	AAG	0	0	Nonsynonymous	NONREF_NONPOLY	122	0	0	122	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	13986	T	C	3	0	13984	GGT	0	0	Synonymous	NONREF_NONPOLY	13	0	13	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	14426	A	G	2	0	14425	CAC	0	0	Nonsynonymous	NONREF_NONPOLY	11	0	0	11	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	14558	A	G	2	0	14557	AAA	0	0	Nonsynonymous	NONREF_NONPOLY	16	0	0	16	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	14793	A	G	3	0	14791	CTA	0	0	Synonymous	NONREF_NONPOLY	15	0	0	15	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15064	G	T	1	0	15064	GTC	0	0	Nonsynonymous	NONREF_NONPOLY	38	0	0	0	38
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15073	T	G	1	0	15073	TGT	0	0	Nonsynonymous	NONREF_NONPOLY	10	0	0	10	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15085	A	C	1	0	15085	ACC	0	0	Nonsynonymous	NONREF_NONPOLY	43	0	43	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15087	C	A	3	0	15085	ACC	0	0	Synonymous	NONREF_NONPOLY	53	53	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15090	T	A	3	0	15088	AAT	0	0	Nonsynonymous	NONREF_NONPOLY	19	19	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15092	G	A	2	0	15091	AGA	0	0	Nonsynonymous	NONREF_NONPOLY	12	12	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15094	C	A	1	0	15094	CAG	0	0	Nonsynonymous	NONREF_NONPOLY	12	12	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15095	A	G	2	0	15094	CAG	0	0	Nonsynonymous	NONREF_NONPOLY	13	0	0	13	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15100	C	A	1	0	15100	CAT	0	0	Nonsynonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15102	T	A	3	0	15100	CAT	0	0	Nonsynonymous	NONREF_NONPOLY	16	16	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15113	T	G	2	0	15112	TTG	0	0	Nonsynonymous	NONREF_NONPOLY	23	0	0	23	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15207	T	C	3	0	15205	AGT	0	0	Synonymous	NONREF_NONPOLY	12	0	12	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15424	A	G	1	0	15424	ACC	0	0	Nonsynonymous	NONREF_NONPOLY	12	0	0	12	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15550	A	G	1	0	15550	AAT	0	0	Nonsynonymous	NONREF_NONPOLY	86	0	0	86	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	15855	T	C	3	0	15853	GGT	0.502487562189055	-2	Synonymous	Synonymous	22.3333333333333	22.3333333333333	22.3333333333333	22.3333333333333	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16052	G	A	2	0	16051	AGA	0	0	Nonsynonymous	NONREF_NONPOLY	104	104	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16129	T	C	1	0	16129	TAT	0	0	Nonsynonymous	NONREF_NONPOLY	19	0	19	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16131	T	G	3	0	16129	TAT	0	0	Nonsynonymous	NONREF_NONPOLY	10	0	0	10	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16197	T	C	3	0	16195	TGT	0	0	Synonymous	NONREF_NONPOLY	12	0	12	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16637	C	T	2	0	16636	GCT	0	0	Nonsynonymous	NONREF_NONPOLY	99	0	0	0	99
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16658	C	T	2	0	16657	TCT	0	0	Nonsynonymous	NONREF_NONPOLY	51	0	0	0	51
+temp_vcf4_1_8A.vcf	gene-ORF1ab	16791	T	C	3	0	16789	GGT	0	0	Synonymous	NONREF_NONPOLY	13	0	13	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17136	T	C	3	0	17134	TGT	0	0	Synonymous	NONREF_NONPOLY	13	0	13	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17298	C	T	3	0	17296	GTC	0	0	Synonymous	NONREF_NONPOLY	108	0	0	0	108
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17543	C	T	2	0	17542	GCT	0	0	Nonsynonymous	NONREF_NONPOLY	122	0	0	0	122
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17878	A	G	1	0	17878	ACC	0	0	Nonsynonymous	NONREF_NONPOLY	13	0	0	13	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17898	A	G	3	0	17896	ATA	0	0	Nonsynonymous	NONREF_NONPOLY	13	0	0	13	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17942	T	A	2	0	17941	TTT	0	0	Nonsynonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	17979	T	G	3	0	17977	ACT	0	0	Synonymous	NONREF_NONPOLY	12	0	0	12	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	18191	A	G	2	0	18190	TAC	0	0	Nonsynonymous	NONREF_NONPOLY	11	0	0	11	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	18228	A	T	3	0	18226	AGA	0	0	Nonsynonymous	NONREF_NONPOLY	11	0	0	0	11
+temp_vcf4_1_8A.vcf	gene-ORF1ab	18237	T	G	3	0	18235	CGT	0	0	Synonymous	NONREF_NONPOLY	103	0	0	103	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	18265	T	C	1	0	18265	TGT	0	0	Nonsynonymous	NONREF_NONPOLY	10	0	10	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	18300	A	C	3	0	18298	TTA	0	0	Nonsynonymous	NONREF_NONPOLY	48	0	48	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	18479	A	G	2	0	18478	AAG	0	0	Nonsynonymous	NONREF_NONPOLY	72	0	0	72	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	19626	T	C	3	0	19624	GGT	0	0	Synonymous	NONREF_NONPOLY	29	0	29	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	19764	A	G	3	0	19762	GTA	0	0	Synonymous	NONREF_NONPOLY	12	0	0	12	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	20058	A	G	3	0	20056	GGA	0	0	Synonymous	NONREF_NONPOLY	11	0	0	11	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	20847	T	A	3	0	20845	GGT	0	0	Synonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	21002	A	G	2	0	21001	GAC	0	0	Nonsynonymous	NONREF_NONPOLY	15	0	0	15	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	21059	A	G	2	0	21058	TAC	0	0	Nonsynonymous	NONREF_NONPOLY	11	0	0	11	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	21076	C	T	1	0	21076	CAA	0	0	Nonsynonymous	NONREF_NONPOLY	86	0	0	0	86
+temp_vcf4_1_8A.vcf	gene-ORF1ab	21335	T	C	2	0	21334	TTA	0	0	Nonsynonymous	NONREF_NONPOLY	10	0	10	0	0
+temp_vcf4_1_8A.vcf	gene-ORF1ab	21350	A	G	2	0	21349	AAA	0	0	Nonsynonymous	NONREF_NONPOLY	50	0	0	50	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25650	T	C	3	0	25648	CCT	0	0	Synonymous	NONREF_NONPOLY	77	0	77	0	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25802	A	G	2	0	25801	GAC	0	0	Nonsynonymous	NONREF_NONPOLY	12	0	0	12	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25812	A	G	3	0	25810	ATA	0	0	Nonsynonymous	NONREF_NONPOLY	32	0	0	32	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25828	A	G	1	0	25828	ACT	0	0	Nonsynonymous	NONREF_NONPOLY	15	0	0	15	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25846	A	G	1	0	25846	ACT	0	0	Nonsynonymous	NONREF_NONPOLY	12	0	0	12	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25874	T	G	2	0	25873	ATT	0.644067796610169	-2	Nonsynonymous	Nonsynonymous	19.6666666666667	19.6666666666667	19.6666666666667	19.6666666666667	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25875	T	G	3	0	25873	ATT	0	0	Nonsynonymous	NONREF_NONPOLY	16	0	0	16	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	25886	A	G	2	0	25885	GAC	0	0	Nonsynonymous	NONREF_NONPOLY	12	0	0	12	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	26069	T	C	2	0	26068	GTC	0	0	Nonsynonymous	NONREF_NONPOLY	17	0	17	0	0
+temp_vcf4_1_8A.vcf	gene-ORF3a	26082	A	G	3	0	26080	ACA	0	0	Synonymous	NONREF_NONPOLY	13	0	0	13	0
+temp_vcf4_1_8A.vcf	gene-ORF7a	27536	C	T	2	0	27535	GCT	0	0	Nonsynonymous	NONREF_NONPOLY	55	0	0	0	55
+temp_vcf4_1_8A.vcf	gene-ORF7b	27707	T	C	3	0	27705	ATT	0	0	Synonymous	NONREF_NONPOLY	42	0	42	0	0
+temp_vcf4_1_8A.vcf	gene-ORF7b	27710	A	T	3	0	27708	GAA	0	0	Nonsynonymous	NONREF_NONPOLY	10	0	0	0	10
+temp_vcf4_1_8A.vcf	gene-ORF8	27994	G	A	2	0	27993	AGA	0	0	Nonsynonymous	NONREF_NONPOLY	59	59	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF8	28004	A	T	3	0	28002	GCA	0.510510510510511	-1	Synonymous	Synonymous	18.5	0	0	18.5	18.5
+temp_vcf4_1_8A.vcf	gene-ORF8	28052	T	A	3	0	28050	ATT	0	0	Synonymous	NONREF_NONPOLY	12	12	0	0	0
+temp_vcf4_1_8A.vcf	gene-ORF8	28138	T	C	2	0	28137	GTG	0	0	Nonsynonymous	NONREF_NONPOLY	15	0	15	0	0
+temp_vcf4_1_8A.vcf	gene-ORF8	28160	C	T	3	0	28158	GAC	0	0	Synonymous	NONREF_NONPOLY	118	0	0	0	118
+temp_vcf4_1_8A.vcf	gene-S	21767	A	T	1	0	21767	AAT	0	0	Nonsynonymous	NONREF_NONPOLY	94	0	0	0	94
+temp_vcf4_1_8A.vcf	gene-S	22169	T	C	1	0	22169	TCG	0	0	Nonsynonymous	NONREF_NONPOLY	32	0	32	0	0
+temp_vcf4_1_8A.vcf	gene-S	22629	T	A	2	0	22628	TTT	0	0	Nonsynonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_1_8A.vcf	gene-S	23325	A	G	2	0	23324	AAC	0.507692307692308	-1	Nonsynonymous	Nonsynonymous	13	0	0	13	13
+temp_vcf4_1_8A.vcf	gene-S	23471	C	T	1	0	23471	CAT	0.00100300902708124	0.00100250601352703	Nonsynonymous	Nonsynonymous	1994	0	0.999999999999926	0	1993
+temp_vcf4_1_8A.vcf	gene-S	23625	C	T	2	0	23624	GCT	0	0	Nonsynonymous	NONREF_NONPOLY	96	0	0	0	96
+temp_vcf4_1_8A.vcf	gene-S	23673	T	C	2	0	23672	GTT	0	0	Nonsynonymous	NONREF_NONPOLY	91	0	91	0	0
+temp_vcf4_1_8A.vcf	gene-S	23802	G	A	2	0	23801	CGT	0	0	Nonsynonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_1_8A.vcf	gene-S	23803	T	C	3	0	23801	CGT	0	0	Synonymous	NONREF_NONPOLY	11	0	11	0	0
+temp_vcf4_1_8A.vcf	gene-S	24004	C	A	3	0	24002	GGC	0	0	Synonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_1_8A.vcf	gene-S	24051	A	G	2	0	24050	GAC	0	0	Nonsynonymous	NONREF_NONPOLY	11	0	0	11	0
+temp_vcf4_1_8A.vcf	gene-S	24172	T	C	3	0	24170	TTT	0	0	Synonymous	NONREF_NONPOLY	27	0	27	0	0
+temp_vcf4_1_8A.vcf	gene-S	24421	T	C	3	0	24419	GGT	0	0	Synonymous	NONREF_NONPOLY	10	0	10	0	0
+temp_vcf4_1_8A.vcf	gene-S	24991	A	G	3	0	24989	TCA	0	0	Synonymous	NONREF_NONPOLY	14	0	0	14	0
+temp_vcf4_1_8A.vcf	gene-S	25112	G	A	1	0	25112	GAA	0	0	Nonsynonymous	NONREF_NONPOLY	95	95	0	0	0
+temp_vcf4_1_8A.vcf	gene-S	25249	T	C	3	0	25247	TGT	0	0	Synonymous	NONREF_NONPOLY	10	0	10	0	0
+temp_vcf4_1_8A.vcf	noncoding	48	G	A	NA	0	NA	NA	0	0	noncoding	noncoding	121	121	0	0	0

@@ -1,0 +1,3 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+17	6568	G	GA	frameshift	ORF1ab	dupA	Thr2121fs	0.9907	ORF1ab_6568:G>GA_Thr2121fs_frameshift
+36	15114	G	A	synonymous	ORF1ab	G>A	Leu4968Leu	0.0485	ORF1ab_15114:G>A_Leu4968Leu_synonymous

@@ -1,0 +1,14 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+189	6642	C	CT	frameshift	ORF1ab	dupT	Leu2146fs	0.0576	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+318	11028	TG	T	frameshift	ORF1ab	delG	Leu3606fs	0.0315	ORF1ab_11028:TG>T_Leu3606fs_frameshift
+320	11029	G	T	missense	ORF1ab	G>T	Leu3606Phe	0.2604	ORF1ab_11029:G>T_Leu3606Phe_missense
+563	15911	G	GT	frameshift	ORF1ab	dupT	Val5236fs	0.0593	ORF1ab_15911:G>GT_Val5236fs_frameshift
+677	19097	C	T	missense	ORF1ab	C>T	Ala6296Val	0.0353	ORF1ab_19097:C>T_Ala6296Val_missense
+728	19929	C	CT	frameshift&stop	ORF1ab	dupT	As576fs	0.0309	ORF1ab_19929:C>CT_As576fs_frameshift&stop
+831	23376	C	T	missense	S	C>T	Ala623Val	0.0444	S_23376:C>T_Ala623Val_missense
+833	23471	C	T	missense	S	C>T	His655Tyr	0.1864	S_23471:C>T_His655Tyr_missense
+836	23503	CATTGGTGCAGGTATATGCGCTAGTT	C	frameshift	S	-delTGGTGCAGGTATATGCGCTAGTTAT	Gly667fs	0.0362	S_23503:CATTGGTGCAGGTATATGCGCTAGTT>C_Gly667fs_frameshift
+837	23506	TGGTGCAGGTATATGCGCTAGTTA	T	frameshift	S	-delGGTGCAGGTATATGCGCTAGTTA	Gly667fs	0.0573	S_23506:TGGTGCAGGTATATGCGCTAGTTA>T_Gly667fs_frameshift
+938	26391	T	C	synonymous	E	T>C	Ser67Ser	0.0906	E_26391:T>C_Ser67Ser_synonymous
+1034	29665	C	T	intergenic-region	ORF10-CHR_END	n.C>T		0.0498	ORF10-CHR_END_29665:C>T__intergenic-region
+1035	29760	A	G	intergenic-region	ORF10-CHR_END	n.A>G		0.0913	ORF10-CHR_END_29760:A>G__intergenic-region

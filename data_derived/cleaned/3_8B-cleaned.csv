@@ -1,0 +1,8 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+176	6642	C	CT	frameshift	ORF1ab	dupT	Leu2146fs	0.081	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+192	7835	G	GT	frameshift&stop	ORF1ab	dupT	As544fs	0.0455	ORF1ab_7835:G>GT_As544fs_frameshift&stop
+204	8313	C	T	missense	ORF1ab	C>T	Ala2701Val	0.0393	ORF1ab_8313:C>T_Ala2701Val_missense
+409	15911	G	GT	frameshift	ORF1ab	dupT	Val5236fs	0.0361	ORF1ab_15911:G>GT_Val5236fs_frameshift
+536	22107	ATT	A	frameshift	S	-delTT	Phe201fs	0.0335	S_22107:ATT>A_Phe201fs_frameshift
+542	22688	AATG	A	disruptive-inframe-deletion	S	-delATG	Asn394-Val395delinsIle	0.0311	S_22688:AATG>A_Asn394-Val395delinsIle_disruptive-inframe-deletion
+595	25174	T	A	synonymous	S	T>A	Ala1222Ala	0.6974	S_25174:T>A_Ala1222Ala_synonymous

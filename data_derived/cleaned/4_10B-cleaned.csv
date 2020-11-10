@@ -1,0 +1,4 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+5	5479	A	G	synonymous	ORF1ab	A>G	Gly1756Gly	0.5789	ORF1ab_5479:A>G_Gly1756Gly_synonymous
+10	18894	G	T	synonymous	ORF1ab	G>T	Leu6228Leu	0.5014	ORF1ab_18894:G>T_Leu6228Leu_synonymous
+13	26391	T	C	synonymous	E	T>C	Ser67Ser	0.5	E_26391:T>C_Ser67Ser_synonymous

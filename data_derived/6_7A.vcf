@@ -1,0 +1,72 @@
+##fileformat=VCFv4.2
+##BBMapVersion=38.79
+##ploidy=1
+##rarity=0.00100
+##minallelefraction=0.00100
+##reads=50212
+##pairedReads=0
+##properlyPairedReads=0
+##readLengthAvg=335.996
+##properPairRate=0.00000
+##totalQualityAvg=38.755
+##mapqAvg=46.488
+##reference=ref/MW219695.1.fa
+##contig=<ID=MW219695.1,length=29782>
+##FILTER=<ID=FAIL,Description="Fail">
+##FILTER=<ID=PASS,Description="Pass">
+##INFO=<ID=SN,Number=1,Type=Integer,Description="Scaffold Number">
+##INFO=<ID=STA,Number=1,Type=Integer,Description="Start">
+##INFO=<ID=STO,Number=1,Type=Integer,Description="Stop">
+##INFO=<ID=TYP,Number=1,Type=String,Description="Type">
+##INFO=<ID=R1P,Number=1,Type=Integer,Description="Read1 Plus Count">
+##INFO=<ID=R1M,Number=1,Type=Integer,Description="Read1 Minus Count">
+##INFO=<ID=R2P,Number=1,Type=Integer,Description="Read2 Plus Count">
+##INFO=<ID=R2M,Number=1,Type=Integer,Description="Read2 Minus Count">
+##INFO=<ID=AD,Number=1,Type=Integer,Description="Allele Depth">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=MCOV,Number=1,Type=Integer,Description="Minus Coverage">
+##INFO=<ID=PPC,Number=1,Type=Integer,Description="Paired Count">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Fraction">
+##INFO=<ID=RAF,Number=1,Type=Float,Description="Revised Allele Fraction">
+##INFO=<ID=LS,Number=1,Type=Integer,Description="Length Sum">
+##INFO=<ID=MQS,Number=1,Type=Integer,Description="MAPQ Sum">
+##INFO=<ID=MQM,Number=1,Type=Integer,Description="MAPQ Max">
+##INFO=<ID=BQS,Number=1,Type=Integer,Description="Base Quality Sum">
+##INFO=<ID=BQM,Number=1,Type=Integer,Description="Base Quality Max">
+##INFO=<ID=EDS,Number=1,Type=Integer,Description="End Distance Sum">
+##INFO=<ID=EDM,Number=1,Type=Integer,Description="End Distance Max">
+##INFO=<ID=IDS,Number=1,Type=Integer,Description="Identity Sum">
+##INFO=<ID=IDM,Number=1,Type=Integer,Description="Identity Max">
+##INFO=<ID=CED,Number=1,Type=Integer,Description="Contig End Distance">
+##INFO=<ID=HMP,Number=1,Type=Integer,Description="Homopolymer Count">
+##INFO=<ID=SB,Number=1,Type=Float,Description="Strand Bias">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Ref+, Ref-, Alt+, Alt-">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=AD,Number=1,Type=Integer,Description="Allele Depth">
+##FORMAT=<ID=AF,Number=1,Type=Float,Description="Allele Fraction">
+##FORMAT=<ID=RAF,Number=1,Type=Float,Description="Revised Allele Fraction">
+##FORMAT=<ID=SB,Number=1,Type=Float,Description="Strand Bias">
+##FORMAT=<ID=SC,Number=1,Type=Float,Description="Score">
+##FORMAT=<ID=PF,Number=1,Type=String,Description="Pass Filter">
+##SnpEffVersion="4.3t (build 2017-11-24 10:18), by Pablo Cingolani"
+##SnpEffCmd="SnpEff  MW219695.1 tmp/6-7C-A.unannotated.vcf "
+##INFO=<ID=ANN,Number=.,Type=String,Description="Functional annotations: 'Allele | Annotation | Annotation_Impact | Gene_Name | Gene_ID | Feature_Type | Feature_ID | Transcript_BioType | Rank | HGVS.c | HGVS.p | cDNA.pos / cDNA.length | CDS.pos / CDS.length | AA.pos / AA.length | Distance | ERRORS / WARNINGS / INFO' ">
+##INFO=<ID=LOF,Number=.,Type=String,Description="Predicted loss of function effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+##INFO=<ID=NMD,Number=.,Type=String,Description="Predicted nonsense mediated decay effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	6-7C-A
+MW219695.1	1609	.	C	T	38.16	PASS	SN=0;STA=1608;STO=1609;TYP=SUB;R1P=317;R1M=258;R2P=0;R2M=0;AD=575;DP=1239;MCOV=-1;PPC=0;AF=0.4641;RAF=0.4641;LS=193733;MQS=26353;MQM=46;BQS=21856;BQM=39;EDS=38501;EDM=68;IDS=572968;IDM=997;CED=601;HMP=3;SB=0.9996;ANN=T|synonymous_variant|LOW|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|1/2|c.1398C>T|p.Asp466Asp|1398/21291|1398/21291|466/7096||,T|synonymous_variant|LOW|ORF1ab|Gene_211_21500|transcript|QOY24992.1|protein_coding|1/1|c.1398C>T|p.Asp466Asp|1398/13218|1398/13218|466/4405||	GT:DP:AD:AF:RAF:SB:SC:PF	1:1239:575:0.4641:0.4641:0.9996:38.16:PASS
+MW219695.1	4077	.	A	G	33.48	PASS	SN=0;STA=4076;STO=4077;TYP=SUB;R1P=6;R1M=6;R2P=0;R2M=0;AD=12;DP=2040;MCOV=-1;PPC=0;AF=0.0059;RAF=0.0059;LS=3792;MQS=549;MQM=46;BQS=445;BQM=38;EDS=648;EDM=54;IDS=11940;IDM=996;CED=601;HMP=1;SB=1.0000;ANN=G|missense_variant|MODERATE|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|1/2|c.3866A>G|p.Asp1289Gly|3866/21291|3866/21291|1289/7096||,G|missense_variant|MODERATE|ORF1ab|Gene_211_21500|transcript|QOY24992.1|protein_coding|1/1|c.3866A>G|p.Asp1289Gly|3866/13218|3866/13218|1289/4405||	GT:DP:AD:AF:RAF:SB:SC:PF	0:2040:12:0.0059:0.0059:1.0000:33.48:PASS
+MW219695.1	15085	.	A	C	11.12	PASS	SN=0;STA=15084;STO=15085;TYP=SUB;R1P=7;R1M=7;R2P=0;R2M=0;AD=14;DP=423;MCOV=-1;PPC=0;AF=0.0331;RAF=0.0331;LS=4571;MQS=639;MQM=46;BQS=225;BQM=19;EDS=1190;EDM=85;IDS=13917;IDM=996;CED=601;HMP=2;SB=1.0000;ANN=C|missense_variant|MODERATE|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|2/2|c.14875A>C|p.Thr4959Pro|14875/21291|14875/21291|4959/7096||	GT:DP:AD:AF:RAF:SB:SC:PF	0:423:14:0.0331:0.0331:1.0000:11.12:PASS
+MW219695.1	15096	.	G	T	11.62	PASS	SN=0;STA=15095;STO=15096;TYP=SUB;R1P=8;R1M=2;R2P=0;R2M=0;AD=10;DP=423;MCOV=-1;PPC=0;AF=0.0236;RAF=0.0236;LS=3268;MQS=454;MQM=46;BQS=178;BQM=18;EDS=738;EDM=74;IDS=9930;IDM=996;CED=601;HMP=3;SB=0.9985;ANN=T|missense_variant|MODERATE|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|2/2|c.14886G>T|p.Gln4962His|14886/21291|14886/21291|4962/7096||	GT:DP:AD:AF:RAF:SB:SC:PF	0:423:10:0.0236:0.0236:0.9985:11.62:PASS
+MW219695.1	15114	.	G	A	12.12	PASS	SN=0;STA=15113;STO=15114;TYP=SUB;R1P=10;R1M=5;R2P=0;R2M=0;AD=15;DP=423;MCOV=-1;PPC=0;AF=0.0355;RAF=0.0355;LS=4904;MQS=679;MQM=46;BQS=284;BQM=20;EDS=839;EDM=56;IDS=14889;IDM=996;CED=601;HMP=3;SB=0.9990;ANN=A|synonymous_variant|LOW|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|2/2|c.14904G>A|p.Leu4968Leu|14904/21291|14904/21291|4968/7096||	GT:DP:AD:AF:RAF:SB:SC:PF	0:423:15:0.0355:0.0355:0.9990:12.12:PASS
+MW219695.1	15118	.	T	A	12.6	PASS	SN=0;STA=15117;STO=15118;TYP=SUB;R1P=7;R1M=5;R2P=0;R2M=0;AD=12;DP=423;MCOV=-1;PPC=0;AF=0.0284;RAF=0.0284;LS=3913;MQS=544;MQM=46;BQS=237;BQM=20;EDS=619;EDM=52;IDS=11925;IDM=996;CED=601;HMP=3;SB=0.9994;ANN=A|missense_variant|MODERATE|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|2/2|c.14908T>A|p.Ser4970Thr|14908/21291|14908/21291|4970/7096||	GT:DP:AD:AF:RAF:SB:SC:PF	0:423:12:0.0284:0.0284:0.9994:12.60:PASS
+MW219695.1	15119	.	C	A	12.87	PASS	SN=0;STA=15118;STO=15119;TYP=SUB;R1P=7;R1M=4;R2P=0;R2M=0;AD=11;DP=423;MCOV=-1;PPC=0;AF=0.0260;RAF=0.0260;LS=3596;MQS=495;MQM=46;BQS=220;BQM=20;EDS=560;EDM=51;IDS=10905;IDM=996;CED=601;HMP=2;SB=0.9991;ANN=A|stop_gained|HIGH|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|2/2|c.14909C>A|p.Ser4970*|14909/21291|14909/21291|4970/7096||	GT:DP:AD:AF:RAF:SB:SC:PF	0:423:11:0.0260:0.0260:0.9991:12.87:PASS
+MW219695.1	17207	.	G	GT	40.85	PASS	SN=0;STA=17207;STO=17207;TYP=INS;R1P=240;R1M=200;R2P=0;R2M=0;AD=440;DP=1029;MCOV=-1;PPC=0;AF=0.4276;RAF=0.4276;LS=146904;MQS=19785;MQM=46;BQS=17955;BQM=41;EDS=74312;EDM=169;IDS=438506;IDM=997;CED=601;HMP=0;SB=0.9997;ANN=GT|frameshift_variant&stop_gained|HIGH|ORF1ab|Gene_211_21500|transcript|QOY24991.1|protein_coding|2/2|c.17001dupT|p.Asp5668fs|17002/21291|17002/21291|5668/7096||INFO_REALIGN_3_PRIME;LOF=(ORF1ab|Gene_211_21500|2|0.50)	GT:DP:AD:AF:RAF:SB:SC:PF	1:1029:440:0.4276:0.4276:0.9997:40.85:PASS
+MW219695.1	23403	.	CT	C	40.92	PASS	SN=0;STA=23403;STO=23404;TYP=DEL;R1P=492;R1M=453;R2P=0;R2M=0;AD=945;DP=948;MCOV=-1;PPC=0;AF=0.9968;RAF=0.9968;LS=325993;MQS=42321;MQM=45;BQS=34624;BQM=38;EDS=39679;EDM=43;IDS=938662;IDM=994;CED=601;HMP=3;SB=0.9998;ANN=C|frameshift_variant|HIGH|S|Gene_21508_25329|transcript|QOY24993.1|protein_coding|1/1|c.1897delT|p.Trp633fs|1897/3822|1897/3822|633/1273||INFO_REALIGN_3_PRIME;LOF=(S|Gene_21508_25329|1|1.00)	GT:DP:AD:AF:RAF:SB:SC:PF	1:948:945:0.9968:0.9968:0.9998:40.92:PASS
+MW219695.1	23405	.	T	C	44.19	PASS	SN=0;STA=23404;STO=23405;TYP=SUB;R1P=492;R1M=453;R2P=0;R2M=0;AD=945;DP=948;MCOV=-1;PPC=0;AF=0.9968;RAF=0.9968;LS=325993;MQS=42321;MQM=45;BQS=34658;BQM=38;EDS=38734;EDM=42;IDS=938662;IDM=994;CED=601;HMP=0;SB=0.9998;ANN=C|missense_variant|MODERATE|S|Gene_21508_25329|transcript|QOY24993.1|protein_coding|1/1|c.1897T>C|p.Trp633Arg|1897/3822|1897/3822|633/1273||	GT:DP:AD:AF:RAF:SB:SC:PF	1:948:945:0.9968:0.9968:0.9998:44.19:PASS
+MW219695.1	26010	.	T	A	10.06	PASS	SN=0;STA=26009;STO=26010;TYP=SUB;R1P=1;R1M=9;R2P=0;R2M=0;AD=10;DP=1662;MCOV=-1;PPC=0;AF=0.0060;RAF=0.0060;LS=3588;MQS=450;MQM=46;BQS=150;BQM=15;EDS=1388;EDM=139;IDS=9906;IDM=997;CED=601;HMP=0;SB=0.6875;ANN=A|synonymous_variant|LOW|ORF3a|Gene_25338_26165|transcript|QOY24994.1|protein_coding|1/1|c.672T>A|p.Gly224Gly|672/828|672/828|224/275||	GT:DP:AD:AF:RAF:SB:SC:PF	0:1662:10:0.0060:0.0060:0.6875:10.06:PASS
+MW219695.1	26391	.	T	C	48.15	PASS	SN=0;STA=26390;STO=26391;TYP=SUB;R1P=341;R1M=388;R2P=0;R2M=0;AD=729;DP=730;MCOV=-1;PPC=0;AF=0.9986;RAF=0.9986;LS=247823;MQS=32682;MQM=46;BQS=29651;BQM=41;EDS=90382;EDM=124;IDS=724224;IDM=997;CED=601;HMP=1;SB=0.9998;ANN=C|synonymous_variant|LOW|E|Gene_26190_26417|transcript|QOY24995.1|protein_coding|1/1|c.201T>C|p.Ser67Ser|201/228|201/228|67/75||	GT:DP:AD:AF:RAF:SB:SC:PF	1:730:729:0.9986:0.9986:0.9998:48.15:PASS
+MW219695.1	26416	.	T	TA	47.63	PASS	SN=0;STA=26416;STO=26416;TYP=INS;R1P=339;R1M=387;R2P=0;R2M=0;AD=726;DP=730;MCOV=-1;PPC=0;AF=0.9945;RAF=0.9945;LS=246806;MQS=32551;MQM=45;BQS=27060;BQM=39;EDS=71136;EDM=98;IDS=721248;IDM=994;CED=601;HMP=0;SB=0.9998;ANN=TA|frameshift_variant|HIGH|E|Gene_26190_26417|transcript|QOY24995.1|protein_coding|1/1|c.217_218insA|p.Leu73fs|218/228|218/228|73/75||INFO_REALIGN_3_PRIME	GT:DP:AD:AF:RAF:SB:SC:PF	1:730:726:0.9945:0.9945:0.9998:47.63:PASS
+MW219695.1	28004	.	A	T	10.71	PASS	SN=0;STA=28003;STO=28004;TYP=SUB;R1P=4;R1M=6;R2P=0;R2M=0;AD=10;DP=1615;MCOV=-1;PPC=0;AF=0.0062;RAF=0.0062;LS=3339;MQS=452;MQM=46;BQS=150;BQM=15;EDS=920;EDM=92;IDS=9948;IDM=997;CED=601;HMP=0;SB=0.9993;ANN=T|synonymous_variant|LOW|ORF8|Gene_27839_28204|transcript|QOY25000.1|protein_coding|1/1|c.165A>T|p.Ala55Ala|165/366|165/366|55/121||	GT:DP:AD:AF:RAF:SB:SC:PF	0:1615:10:0.0062:0.0062:0.9993:10.71:PASS
+MW219695.1	28661	.	A	G	10.32	PASS	SN=0;STA=28660;STO=28661;TYP=SUB;R1P=7;R1M=3;R2P=0;R2M=0;AD=10;DP=2357;MCOV=-1;PPC=0;AF=0.0042;RAF=0.0042;LS=3308;MQS=452;MQM=46;BQS=142;BQM=15;EDS=418;EDM=42;IDS=9939;IDM=996;CED=601;HMP=0;SB=0.9989;ANN=G|missense_variant|MODERATE|N|Gene_28219_29478|transcript|QOY25001.1|protein_coding|1/1|c.442A>G|p.Thr148Ala|442/1260|442/1260|148/419||	GT:DP:AD:AF:RAF:SB:SC:PF	0:2357:10:0.0042:0.0042:0.9989:10.32:PASS

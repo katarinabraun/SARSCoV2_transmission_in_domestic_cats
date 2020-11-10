@@ -1,0 +1,4 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	ORF1ab_6642:C>CT_Leu2146fs_frameshift	6642.0	0.0837	0.081	0.08235
+1	ORF1ab_15911:G>GT_Val5236fs_frameshift	15911.0	0.0304	0.0361	0.03325
+3	S_25174:T>A_Ala1222Ala_synonymous	25174.0	0.6525	0.6974	0.6749499999999999

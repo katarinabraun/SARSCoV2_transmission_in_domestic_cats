@@ -1,0 +1,6 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+59	15096	G	T	missense	ORF1ab	G>T	Gln4962His	0.0396	ORF1ab_15096:G>T_Gln4962His_missense
+76	23284	T	C	synonymous	S	T>C	Phe592Phe	0.993	S_23284:T>C_Phe592Phe_synonymous
+78	23349	A	G	missense	S	A>G	As14Gly	0.9919	S_23349:A>G_As14Gly_missense
+80	23471	C	T	missense	S	C>T	His655Tyr	1.0	S_23471:C>T_His655Tyr_missense
+83	26391	T	C	synonymous	E	T>C	Ser67Ser	0.875	E_26391:T>C_Ser67Ser_synonymous

@@ -1,0 +1,2 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+0	13703	T	C	missense	ORF1ab	T>C	Ile4498Thr	0.9974	ORF1ab_13703:T>C_Ile4498Thr_missense

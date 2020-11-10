@@ -1,0 +1,23 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+115	6642	C	CT	frameshift	ORF1ab	dupT	Leu2146fs	0.0837	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+342	15911	G	GT	frameshift	ORF1ab	dupT	Val5236fs	0.0304	ORF1ab_15911:G>GT_Val5236fs_frameshift
+498	23471	C	T	missense	S	C>T	His655Tyr	0.0374	S_23471:C>T_His655Tyr_missense
+526	25174	T	A	synonymous	S	T>A	Ala1222Ala	0.6525	S_25174:T>A_Ala1222Ala_synonymous
+637	29657	G	T	intergenic-region	ORF10-CHR_END	n.G>T		0.0435	ORF10-CHR_END_29657:G>T__intergenic-region
+638	29738	A	C	intergenic-region	ORF10-CHR_END	n.A>C		0.0596	ORF10-CHR_END_29738:A>C__intergenic-region
+639	29739	T	A	intergenic-region	ORF10-CHR_END	n.T>A		0.0619	ORF10-CHR_END_29739:T>A__intergenic-region
+640	29740	G	GACTGTTTGCGC	intergenic-region	ORF10-CHR_END	n.-insACTGTTTGCGC		0.0596	ORF10-CHR_END_29740:G>GACTGTTTGCGC__intergenic-region
+641	29742	A	T	intergenic-region	ORF10-CHR_END	n.A>T		0.0596	ORF10-CHR_END_29742:A>T__intergenic-region
+642	29744	G	C	intergenic-region	ORF10-CHR_END	n.G>C		0.0596	ORF10-CHR_END_29744:G>C__intergenic-region
+643	29745	A	G	intergenic-region	ORF10-CHR_END	n.A>G		0.0573	ORF10-CHR_END_29745:A>G__intergenic-region
+644	29746	G	C	intergenic-region	ORF10-CHR_END	n.G>C		0.0596	ORF10-CHR_END_29746:G>C__intergenic-region
+645	29747	C	G	intergenic-region	ORF10-CHR_END	n.C>G		0.0596	ORF10-CHR_END_29747:C>G__intergenic-region
+646	29748	C	T	intergenic-region	ORF10-CHR_END	n.C>T		0.0596	ORF10-CHR_END_29748:C>T__intergenic-region
+647	29749	C	T	intergenic-region	ORF10-CHR_END	n.C>T		0.0596	ORF10-CHR_END_29749:C>T__intergenic-region
+648	29750	T	C	intergenic-region	ORF10-CHR_END	n.T>C		0.0596	ORF10-CHR_END_29750:T>C__intergenic-region
+649	29751	A	C	intergenic-region	ORF10-CHR_END	n.A>C		0.0596	ORF10-CHR_END_29751:A>C__intergenic-region
+650	29756	GTAAAATTAATTTTA	G	intergenic-region	ORF10-CHR_END	n.-delTAAAATTAATTTTA		0.0596	ORF10-CHR_END_29756:GTAAAATTAATTTTA>G__intergenic-region
+651	29773	A	C	intergenic-region	ORF10-CHR_END	n.A>C		0.0596	ORF10-CHR_END_29773:A>C__intergenic-region
+652	29774	G	A	intergenic-region	ORF10-CHR_END	n.G>A		0.0596	ORF10-CHR_END_29774:G>A__intergenic-region
+653	29776	G	T	intergenic-region	ORF10-CHR_END	n.G>T		0.0596	ORF10-CHR_END_29776:G>T__intergenic-region
+654	29778	T	A	intergenic-region	ORF10-CHR_END	n.T>A		0.0596	ORF10-CHR_END_29778:T>A__intergenic-region

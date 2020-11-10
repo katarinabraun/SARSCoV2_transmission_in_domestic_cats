@@ -1,0 +1,12 @@
+	SNP
+0	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+35	ORF1ab_15911:G>GT_Val5236fs_frameshift
+40	S_24618:CA>C_Arg1039fs_frameshift
+42	ORF7a_27342:G>GA_Ile3fs_frameshift
+71	ORF1ab_19929:C>CT_As576fs_frameshift&stop
+74	S_23506:TGGTGCAGGTATATGCGCTAGTTA>T_Gly667fs_frameshift
+115	S_23503:CATTGGTGCAGGTATATGCGCTAGTT>C_Gly667fs_frameshift
+149	ORF1ab_11028:TG>T_Leu3606fs_frameshift
+154	ORF1ab_11028:T>TT_Leu3606fs_frameshift
+182	S_21837:TAG>T_As11fs_frameshift
+17	N_28843:TAGA>T_Arg209del_disruptive-inframe-deletion

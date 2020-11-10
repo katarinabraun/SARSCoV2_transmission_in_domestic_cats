@@ -1,0 +1,1 @@
+file	product	site	codon	num_overlap_ORF_nts	N_diffs	S_diffs	N_sites	S_sites	N_sites_ref	S_sites_ref	N_diffs_vs_ref	S_diffs_vs_ref	gdiv	N_gdiv	S_gdiv

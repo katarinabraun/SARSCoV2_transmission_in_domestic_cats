@@ -1,0 +1,3 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+2	ORF1ab_11028:TG>T_Leu3606fs_frameshift	11028.0	0.0343	0.0365	0.0354
+3	ORF1ab_11029:G>T_Leu3606Phe_missense	11029.0	0.955	0.9565	0.95575

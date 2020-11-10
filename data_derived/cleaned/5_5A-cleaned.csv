@@ -1,0 +1,12 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+2	3358	T	A	synonymous	ORF1ab	T>A	Ala1049Ala	0.2245	ORF1ab_3358:T>A_Ala1049Ala_synonymous
+8	5479	A	G	synonymous	ORF1ab	A>G	Gly1756Gly	0.9914	ORF1ab_5479:A>G_Gly1756Gly_synonymous
+16	11028	TG	T	frameshift	ORF1ab	delG	Leu3606fs	0.0343	ORF1ab_11028:TG>T_Leu3606fs_frameshift
+18	11029	G	T	missense	ORF1ab	G>T	Leu3606Phe	0.955	ORF1ab_11029:G>T_Leu3606Phe_missense
+20	11121	G	GT	frameshift	ORF1ab	dupT	Leu3638fs	0.3938	ORF1ab_11121:G>GT_Leu3638fs_frameshift
+30	13065	C	CT	frameshift&stop	ORF1ab	dupT	Ser4286fs	0.5084	ORF1ab_13065:C>CT_Ser4286fs_frameshift&stop
+31	13417	G	GT	frameshift	ORF1ab	dupT	Cys4404fs	0.9809	ORF1ab_13417:G>GT_Cys4404fs_frameshift
+54	16398	T	TA	frameshift	ORF1ab	dupA	Ser5398fs	0.1084	ORF1ab_16398:T>TA_Ser5398fs_frameshift
+71	19291	TTTGTTAATTTA	T	frameshift	ORF1ab	-delTTGTTAATTTA	Phe6361fs	0.2183	ORF1ab_19291:TTTGTTAATTTA>T_Phe6361fs_frameshift
+74	19773	G	A	synonymous	ORF1ab	G>A	Val6521Val	0.257	ORF1ab_19773:G>A_Val6521Val_synonymous
+107	29431	C	CA	frameshift	N	dupA	Gln406fs	0.2313	N_29431:C>CA_Gln406fs_frameshift

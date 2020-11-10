@@ -1,0 +1,7 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+73	6642	C	CT	frameshift	ORF1ab	dupT	Leu2146fs	0.0498	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+217	15911	G	GT	frameshift	ORF1ab	dupT	Val5236fs	0.0419	ORF1ab_15911:G>GT_Val5236fs_frameshift
+266	21415	A	G	missense	ORF1ab	A>G	Ile7069Val	0.1858	ORF1ab_21415:A>G_Ile7069Val_missense
+293	23471	C	T	missense	S	C>T	His655Tyr	0.8513	S_23471:C>T_His655Tyr_missense
+315	26391	T	C	synonymous	E	T>C	Ser67Ser	0.8632	E_26391:T>C_Ser67Ser_synonymous
+344	29457	G	A	missense	N	G>A	Ser413Asn	0.0797	N_29457:G>A_Ser413Asn_missense

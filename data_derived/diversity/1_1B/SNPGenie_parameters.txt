@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: Default used; all SNPs included
+SLIDING WINDOW LENGTH: None
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: /Volumes/GoogleDrive/Shared drives/2019-nCoV open research team/Sequencing Data/Cats/SARSCoV2_transmission_in_domestic_cats/data_derived/1_1B.vcf.recode.vcf
+REFERENCE FASTA FILE: User submitted file: /Volumes/GoogleDrive/Shared drives/2019-nCoV open research team/Sequencing Data/Cats/SARSCoV2_transmission_in_domestic_cats/MW219695.1/MW219695.1.fasta
+GTF FILE: User submitted file: /Volumes/GoogleDrive/Shared drives/2019-nCoV open research team/Sequencing Data/Cats/SARSCoV2_transmission_in_domestic_cats/MW219695.1/genes.gtf
+COMPLEMENT MODE: No

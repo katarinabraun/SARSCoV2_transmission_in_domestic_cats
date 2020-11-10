@@ -1,0 +1,5 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+0	87	T	A	intergenic-region	CHR_START-ORF1ab	n.T>A		0.9973	CHR_START-ORF1ab_87:T>A__intergenic-region
+41	29780	T	G	intergenic-region	ORF10-CHR_END	n.T>G		0.5838	ORF10-CHR_END_29780:T>G__intergenic-region
+42	29781	C	A	intergenic-region	ORF10-CHR_END	n.C>A		0.5851	ORF10-CHR_END_29781:C>A__intergenic-region
+43	29782	C	T	intergenic-region	ORF10-CHR_END	n.C>T		0.5846	ORF10-CHR_END_29782:C>T__intergenic-region

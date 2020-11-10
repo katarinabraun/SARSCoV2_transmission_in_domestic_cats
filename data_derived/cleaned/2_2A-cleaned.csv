@@ -1,0 +1,7 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+55	6642	C	CT	frameshift	ORF1ab	dupT	Leu2146fs	0.0374	ORF1ab_6642:C>CT_Leu2146fs_frameshift
+218	18348	T	A	synonymous	ORF1ab	T>A	Pro6046Pro	0.0368	ORF1ab_18348:T>A_Pro6046Pro_synonymous
+222	19097	C	T	missense	ORF1ab	C>T	Ala6296Val	0.0691	ORF1ab_19097:C>T_Ala6296Val_missense
+246	23471	C	T	missense	S	C>T	His655Tyr	0.1973	S_23471:C>T_His655Tyr_missense
+274	26391	T	C	synonymous	E	T>C	Ser67Ser	0.0783	E_26391:T>C_Ser67Ser_synonymous
+317	29701	GAGTGTAC	G	intergenic-region	ORF10-CHR_END	n.-delAGTGTAC		0.0792	ORF10-CHR_END_29701:GAGTGTAC>G__intergenic-region

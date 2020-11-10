@@ -1,0 +1,4 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+1	14354	C	T	missense	ORF1ab	C>T	Pro4715Leu	0.3511	ORF1ab_14354:C>T_Pro4715Leu_missense
+17	24131	T	TCTGCA	frameshift	S	-dupCACTG	Leu878fs	0.6458	S_24131:T>TCTGCA_Leu878fs_frameshift
+18	24166	G	A	stop	S	G>A	Tr86*	0.6484	S_24166:G>A_Tr86*_stop

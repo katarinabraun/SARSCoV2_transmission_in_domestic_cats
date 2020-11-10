@@ -1,0 +1,4 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+5	2661	G	A	missense	ORF1ab	G>A	Gly817Asp	0.5369	ORF1ab_2661:G>A_Gly817Asp_missense
+19	12215	G	A	missense	ORF1ab	G>A	Glu4002Lys	0.9991	ORF1ab_12215:G>A_Glu4002Lys_missense
+43	16576	C	CT	frameshift	ORF1ab	dupT	Ala5458fs	0.5084	ORF1ab_16576:C>CT_Ala5458fs_frameshift

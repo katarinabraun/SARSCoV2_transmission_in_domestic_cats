@@ -1,0 +1,5 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+3	ORF1ab_6300:C>T_Ser2030Leu_missense	6300.0	0.031	0.0537	0.04235
+5	ORF1ab_10213:T>C_Gly3334Gly_synonymous	10213.0	0.1526	0.2314	0.192
+10	S_23471:C>T_His655Tyr_missense	23471.0	0.5325	0.6394	0.58595
+13	E_26391:T>C_Ser67Ser_synonymous	26391.0	0.3518	0.3728	0.3623

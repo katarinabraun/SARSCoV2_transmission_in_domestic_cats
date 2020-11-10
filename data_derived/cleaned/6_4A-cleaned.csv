@@ -1,0 +1,2 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+1	17252	T	C	missense	ORF1ab	T>C	Phe5681Ser	0.9971	ORF1ab_17252:T>C_Phe5681Ser_missense

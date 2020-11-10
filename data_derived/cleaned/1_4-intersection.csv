@@ -1,0 +1,7 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	ORF1ab_316:G>T_Val35Val_synonymous	316.0	0.0353	0.0411	0.0382
+1	ORF1ab_6642:C>CT_Leu2146fs_frameshift	6642.0	0.0444	0.0492	0.0468
+2	ORF1ab_9919:G>A_Lys3236Lys_synonymous	9919.0	0.0347	0.0365	0.0356
+3	S_23471:C>T_His655Tyr_missense	23471.0	0.6908	0.6988	0.6948
+4	E_26391:T>C_Ser67Ser_synonymous	26391.0	0.1438	0.1394	0.1416
+5	N_28843:TAGA>T_Arg209del_disruptive-inframe-deletion	28843.0	0.0472	0.0616	0.054400000000000004

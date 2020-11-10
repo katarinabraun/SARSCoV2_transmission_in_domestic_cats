@@ -1,0 +1,13 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	SNP
+0	97	C	A	intergenic-region	CHR_START-ORF1ab	n.C>A		0.1582	CHR_START-ORF1ab_97:C>A__intergenic-region
+1	97	C	G	intergenic-region	CHR_START-ORF1ab	n.C>G		0.2557	CHR_START-ORF1ab_97:C>G__intergenic-region
+2	187	C	T	intergenic-region	CHR_START-ORF1ab	n.C>T		0.4135	CHR_START-ORF1ab_187:C>T__intergenic-region
+4	1005	C	T	missense	ORF1ab	C>T	Thr265Ile	0.9985	ORF1ab_1005:C>T_Thr265Ile_missense
+11	3665	G	T	missense	ORF1ab	G>T	Gly1152Cys	0.4191	ORF1ab_3665:G>T_Gly1152Cys_missense
+22	11059	G	A	missense	ORF1ab	G>A	Met3616Ile	0.9928	ORF1ab_11059:G>A_Met3616Ile_missense
+25	18095	G	T	missense	ORF1ab	G>T	Gly5962Val	0.9972	ORF1ab_18095:G>T_Gly5962Val_missense
+32	23125	C	CA	frameshift	S	dupA	Asn540fs	0.5956	S_23125:C>CA_Asn540fs_frameshift
+33	23471	C	T	missense	S	C>T	His655Tyr	0.673	S_23471:C>T_His655Tyr_missense
+35	24895	A	G	synonymous	S	A>G	Val1129Val	0.3316	S_24895:A>G_Val1129Val_synonymous
+36	25463	C	CT	frameshift	ORF3a	dupT	Gly44fs	0.208	ORF3a_25463:C>CT_Gly44fs_frameshift
+43	27993	AG	A	frameshift	ORF8	delG	Arg52fs	0.485	ORF8_27993:AG>A_Arg52fs_frameshift

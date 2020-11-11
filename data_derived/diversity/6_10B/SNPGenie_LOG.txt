@@ -1,0 +1,6 @@
+file	product	site	LOG
+NA	NA	NA	SNPGenie initiated at local time Tue Nov 10 18:08:48 2020
+N/A	gene-ORF1ab	13429	Mid-sequence STOP codon. Please check your annotations for: (1) incorrect frame; or (2) incorrect starting or ending coordinates. A premature STOP codon may also indicate a pseudogene, for which piN vs. piS analysis may not be appropriate.
+temp_vcf4_6_10B.vcf	gene-ORF1ab	1710	No SNPs in >=1000 contiguous codons. If this was unexpected, you may need to specify Unix (\n) newline characters! See Troubleshooting
+temp_vcf4_6_10B.vcf	gene-S	25139	No SNPs in >=1000 contiguous codons. If this was unexpected, you may need to specify Unix (\n) newline characters! See Troubleshooting
+NA	NA	NA	SNPGenie completed at local time Tue Nov 10 18:11:23 2020. The process took 155.00 secs, i.e., 2 mins and 35.00 secs

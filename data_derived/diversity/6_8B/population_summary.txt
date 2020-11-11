@@ -1,0 +1,2 @@
+file	sites	sites_coding	sites_noncoding	pi	pi_coding	pi_noncoding	N_sites	S_sites	piN	piS	mean_dN_vs_ref	mean_dS_vs_ref	mean_gdiv_polymorphic	mean_N_gdiv	mean_S_gdiv	mean_gdiv	sites_polymorphic	mean_gdiv_coding_poly	sites_coding_poly	mean_gdiv_noncoding_poly	sites_noncoding_poly
+temp_vcf4_6_8B.vcf	29782	29260	522	0.000557299445360922	0.000567241697940498	0	33356.1779604049	9642.95247437848	0.00645505210381326	0.0299271279949297	0.00611970717002161	0.0387202700510358	-3.48570821114263	-5.70586186407936	-5.33328508010441	0.000544254582659699	210	0.0771856665751007	210	*	0

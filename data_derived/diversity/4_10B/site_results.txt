@@ -1,0 +1,22 @@
+file	product	site	ref_nt	maj_nt	position_in_codon	overlapping_ORFs	codon_start_site	codon	pi	gdiv	class_vs_ref	class	coverage	A	C	G	T
+temp_vcf4_4_10B.vcf	gene-E	26391	T	C	3	0	26389	TCT	0.166666666666667	0.152777777777778	Synonymous	Synonymous	12	0	11	0	1
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3174	T	A	3	1	3173	GTT	0	-3	Synonymous	NONREF_NONPOLY	13	26	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3174		A	1	1	3174		0	-3	Synonymous	NONREF_NONPOLY	13	26	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3178		A	2	1	3177		0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3178		A	3	1	3177		0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3342	C	G	3	1	3341	GAC	0	-3	Nonsynonymous	NONREF_NONPOLY	11	0	0	22	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3342		G	1	1	3342		0	-3	Synonymous	NONREF_NONPOLY	11	0	0	22	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3345	T	A	3	1	3344	ATT	0	-3	Synonymous	NONREF_NONPOLY	12	24	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3345		A	1	1	3345		0	-3	Synonymous	NONREF_NONPOLY	12	24	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3402	C	T	3	1	3401	TAC	0	-3	Synonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_4_10B.vcf	gene-ORF1ab	3402		T	1	1	3402		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_4_10B.vcf	gene-ORF1ab	5479		G	2	1	5478		0	-2.36111111111111	Synonymous	NONREF_NONPOLY	12	0	0	22	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	5479		G	3	1	5478		0	-2.36111111111111	Synonymous	NONREF_NONPOLY	12	0	0	22	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	10876		T	2	1	10875		0	-3	Synonymous	NONREF_NONPOLY	20	0	0	0	40
+temp_vcf4_4_10B.vcf	gene-ORF1ab	10876		T	3	1	10875		0	-3	Synonymous	NONREF_NONPOLY	20	0	0	0	40
+temp_vcf4_4_10B.vcf	gene-ORF1ab	11029		T	2	1	11028		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_4_10B.vcf	gene-ORF1ab	11029		T	3	1	11028		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	0	20
+temp_vcf4_4_10B.vcf	gene-ORF1ab	15855	T	A	3	0	15853	GGT	0.523809523809524	-1	Synonymous	Synonymous	10.5	10.5	10.5	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	18894	G	T	3	0	18892	CTG	0.00140252454417952	0.00140154100663104	Synonymous	Synonymous	1426	0	0	1.00000000000002	1425
+temp_vcf4_4_10B.vcf	gene-ORF1ab	18984	T	A	3	0	18982	GGT	0	0	Synonymous	NONREF_NONPOLY	10	10	0	0	0
+temp_vcf4_4_10B.vcf	gene-ORF1ab	18987	C	A	3	0	18985	AAC	0	0	Nonsynonymous	NONREF_NONPOLY	11	11	0	0	0

@@ -1,0 +1,4 @@
+file	product	site	ref_nt	maj_nt	position_in_codon	overlapping_ORFs	codon_start_site	codon	pi	gdiv	class_vs_ref	class	coverage	A	C	G	T
+temp_vcf4_6_9A.vcf	gene-ORF1ab	13703	T	C	2	0	13702	ATA	0.00103734439834025	0.00103680635663994	Nonsynonymous	Nonsynonymous	1928	0	1927	0	0.999999999999996
+temp_vcf4_6_9A.vcf	gene-ORF1ab	15424	A	T	1	0	15424	ACC	0	0	Nonsynonymous	NONREF_NONPOLY	13	0	0	0	13
+temp_vcf4_6_9A.vcf	gene-ORF1ab	15855	T	C	3	0	15853	GGT	0.5	-1	Synonymous	Synonymous	12.5	12.5	12.5	0	0

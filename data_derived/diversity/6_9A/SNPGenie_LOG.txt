@@ -1,0 +1,14 @@
+file	product	site	LOG
+NA	NA	NA	SNPGenie initiated at local time Tue Nov 10 18:00:35 2020
+temp_vcf4_6_9A.vcf	gene-ORF1ab	15855	There are conflicting coverages reported. An averaging has taken place
+temp_vcf4_6_9A.vcf	NA	15855	Variant data at this site imply a negative number of T nucleotides: -15. This most often results from variants which are assigned to the wrong site in the SNP Report. Results at this site are unreliable; T count set to 0; proceed with caution.
+temp_vcf4_6_9A.vcf	NA	15855	Variant data at this site imply a negative proportion of T nucleotides of -1. This may result from rounding error, in which case the number will be very small in magnitude, or variants which are assigned to the wrong site in the SNP Report. If the latter, results at this site are unreliable. In either case, T prop has set to 0; proceed with caution.
+temp_vcf4_6_9A.vcf	NA	15855	Coverage (12.500) does not equal the nucleotide sum (25.000).
+temp_vcf4_6_9A.vcf	gene-ORF1ab	15855	Variant data at this site imply a negative number of T nucleotides: -15. This most often results from variants which are assigned to the wrong site in the SNP Report. Results at this site are unreliable; T count set to 0; proceed with caution.
+temp_vcf4_6_9A.vcf	gene-ORF1ab	15855	Variant data at this site imply a negative proportion of T nucleotides of -1. This may result from rounding error, in which case the number will be very small in magnitude, or variants which are assigned to the wrong site in the SNP Report. If the latter, results at this site are unreliable. In either case, T prop has set to 0; proceed with caution.
+N/A	gene-ORF1ab	13429	Mid-sequence STOP codon. Please check your annotations for: (1) incorrect frame; or (2) incorrect starting or ending coordinates. A premature STOP codon may also indicate a pseudogene, for which piN vs. piS analysis may not be appropriate.
+temp_vcf4_6_9A.vcf	gene-ORF1ab	1710	No SNPs in >=1000 contiguous codons. If this was unexpected, you may need to specify Unix (\n) newline characters! See Troubleshooting
+temp_vcf4_6_9A.vcf	gene-ORF1ab	15853	Nucleotide total does not equal 100.00% of coverage, but instead 200.00%. This should occur only when conflicting coverages have been reported
+temp_vcf4_6_9A.vcf	gene-ORF1ab	18853	No SNPs in >=1000 contiguous codons. If this was unexpected, you may need to specify Unix (\n) newline characters! See Troubleshooting
+temp_vcf4_6_9A.vcf	gene-S	24506	No SNPs in >=1000 contiguous codons. If this was unexpected, you may need to specify Unix (\n) newline characters! See Troubleshooting
+NA	NA	NA	SNPGenie completed at local time Tue Nov 10 18:03:24 2020. The process took 169.00 secs, i.e., 2 mins and 49.00 secs

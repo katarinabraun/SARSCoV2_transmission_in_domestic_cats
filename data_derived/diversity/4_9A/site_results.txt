@@ -1,0 +1,14 @@
+file	product	site	ref_nt	maj_nt	position_in_codon	overlapping_ORFs	codon_start_site	codon	pi	gdiv	class_vs_ref	class	coverage	A	C	G	T
+temp_vcf4_4_9A.vcf	gene-N	29041	T	C	3	0	29039	TTT	0.000711743772241993	0.000711490482643296	Synonymous	Synonymous	2810	0	2809	0	0.999999999999903
+temp_vcf4_4_9A.vcf	gene-ORF1ab	4845	C	G	3	1	4844	CAC	0	-3	Nonsynonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_4_9A.vcf	gene-ORF1ab	4845		G	1	1	4845		0	-3	Synonymous	NONREF_NONPOLY	10	0	0	20	0
+temp_vcf4_4_9A.vcf	gene-ORF1ab	5397	A	T	3	1	5396	AGA	0	-3	Nonsynonymous	NONREF_NONPOLY	21	0	0	0	42
+temp_vcf4_4_9A.vcf	gene-ORF1ab	5397		T	1	1	5397		0	-3	Synonymous	NONREF_NONPOLY	21	0	0	0	42
+temp_vcf4_4_9A.vcf	gene-ORF1ab	6558	A	A	3	1	6557	GTA	0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_4_9A.vcf	gene-ORF1ab	6558		A	1	1	6558		0	-3	Synonymous	NONREF_NONPOLY	10	20	0	0	0
+temp_vcf4_4_9A.vcf	gene-ORF1ab	15167	T	C	2	0	15166	TTC	0	0	Nonsynonymous	NONREF_NONPOLY	15	0	15	0	0
+temp_vcf4_4_9A.vcf	gene-ORF1ab	21221	T	A	2	0	21220	TTA	0.00204081632653061	0.00203873386089137	Nonsynonymous	Nonsynonymous	980	979	0	0	1.00000000000001
+temp_vcf4_4_9A.vcf	gene-S	21994	T	C	3	0	21992	AGT	0	0	Synonymous	NONREF_NONPOLY	11	0	11	0	0
+temp_vcf4_4_9A.vcf	gene-S	23471	C	T	1	0	23471	CAT	0.00145560407569141	0.0014545446840788	Nonsynonymous	Nonsynonymous	1374	0	1.00000000000003	0	1373
+temp_vcf4_4_9A.vcf	gene-S	23839	C	A	3	0	23837	AAC	0	0	Nonsynonymous	NONREF_NONPOLY	12	12	0	0	0
+temp_vcf4_4_9A.vcf	gene-S	23850	T	A	2	0	23849	GTT	0	0	Nonsynonymous	NONREF_NONPOLY	12	12	0	0	0
